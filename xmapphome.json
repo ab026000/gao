@@ -231,16 +231,16 @@
     {"key":"drpy_js_童趣","name":"📚童趣|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"./js/童趣.js"},
     {"key":"drpy_js_有声绘本网","name":"📚有声绘本|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/有声绘本网.js"},
     {"key":"dr_兔小贝","name":"📚儿童┃启蒙|熊猫幼幼频道","type":3,"api":"./FTY/drpy2.min.js","ext":"./FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
-    {"key":"少儿教育","name":"📚少儿┃教育|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/少儿教育.json"},
-    {"key":"小学课堂","name":"📚小学┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/小学课堂.json"},
-    {"key":"初中课堂","name":"📚初中┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/初中课堂.json"},
-    {"key":"高中教育","name":"📚高中┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/高中课堂.json"},
+    {"key":"少儿教育","name":"📚少儿┃教育|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;5a90fdbb8cfcc187d4cebffc2d5ba978","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/少儿教育.json"},
+    {"key":"小学课堂","name":"📚小学┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;5a90fdbb8cfcc187d4cebffc2d5ba978","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/小学课堂.json"},
+    {"key":"初中课堂","name":"📚初中┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;5a90fdbb8cfcc187d4cebffc2d5ba978","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/初中课堂.json"},
+    {"key":"高中教育","name":"📚高中┃课堂|熊猫幼幼频道","type":3,"api":"csp_Bili","jar": "./jar/fan.txt;md5;5a90fdbb8cfcc187d4cebffc2d5ba978","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/高中课堂.json"},
     {"key":"drpy_js_AnFuns","name":"动漫一台|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
     {"key":"drpy_js_爱弹幕","name":"动漫二台|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱弹幕.js"},
     {"key":"drpy_js_奇米动漫","name":"动漫三台|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇米动漫.js"},
     {"key":"drpy_js_曲奇动漫","name":"动漫四台|熊猫幼幼频道","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇动漫.js"},
     
-    {"key":"企鹅体育xp","name":"🐧鹅鹅┃熊猫体育台","type":3,"api":"csp_XPath","jar": "./jar/fan.txt;md5;c84c36278bd8bc95a63449a128074be0","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/企鹅直播.json"},
+    {"key":"企鹅体育xp","name":"🐧鹅鹅┃熊猫体育台","type":3,"api":"csp_XPath","jar": "./jar/fan.txt;md5;5a90fdbb8cfcc187d4cebffc2d5ba978","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/企鹅直播.json"},
 
     {"key":"drpy_js_88看球","name":"全网实况看球|熊猫体育台","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/88看球.js"},
 
