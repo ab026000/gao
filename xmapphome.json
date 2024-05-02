@@ -7,64 +7,8 @@
     ],
     "wallpaper":"熊猫电视伴侣",
     "sites":[
-    {"key":"aa","name":"2024-04-21|新增量子影院"},
+    {"key":"aa","name":"2024-05-02|新增量子影院"},
     {"key":"Aid","name":"🚑家庭急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-    {"key":"bt天堂","name":"🧲BT天堂","type":3,"playerType":1,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":"./json/BT天堂.json"},
-    {     
-      "key":"高清网",
-      "name":"📹高清网 | 4K磁力",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext":{
-        "搜索链接":"https://gaoqing.la/?s={wd}",
-        "简介":"<span style=\"color: #000000;\">◎简*介&&<p><span style=\"color: #ff0000;\">磁力链接：</span></p>",
-        "演员":"<span style=\"color: #000000;\">◎主*演&&</span></p>",
-        "图片是否需要代理": "1",
-        "线路数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
-        "线路标题":"磁力链接",
-        "播放数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
-        "播放列表":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>[不包含:&dn&&包含:magnet]",
-        "播放链接":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
-        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
-        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}"
-      }
-    },
-    {
-        "key": "达达龟",
-        "name": "💞┃龟龟┃💠",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "./jar/XBPQ.jar",
-        "ext": {
-          "分类url":"https://www.dadagui.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-          "分类": "电影$1#电视剧$2#综艺$3#动漫$4" 
-        }
-  },
-  {"key":"MP4us","name":"🔴MP4us|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
-            "ext": {
-        "标题":"《&&》",
-                "数组":"<li>&&</li>",
-                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
-                "线路标题":"<h2>&&</h2>[替换:下载地址>>磁力]",
-                "播放数组":"download_url&&</ul>",
-                "播放列表":"<a&&</a>[不包含:ed2k]",
-                "线路数组":"download_url&&</ul>",
-                "分类二次截取":"<ul&&</ul>",
-                "分类数组":"<li&&</li>",
-                "分类标题":">&&</a",
-                "分类ID":"/list/&&-1.html",
-        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
-             }
-        },
-  {"key":"采集_极速","name":"☁️┃极速┃云播","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-  {"key":"采集_天天","name":"☁️┃天天┃云播","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
-{"key":"集集_飞飞","name":"☁️┃飞飞┃云播","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
-{"key":"采集_影图","name":"☁️┃影图┃云播","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
-{"key":"采集_火狐","name":"☁️┃火狐┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
-{"key":"采集_空空","name":"☁️┃空空┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"采集_速播","name":"☁️┃速播┃云播","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
-{"key":"采集_卧龙","name":"☁️┃卧龙┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","香港剧","恐怖片","动作片"]},
     {"key":"豆瓣","name":"豆瓣排行榜|熊猫合家欢","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
         "key":"非凡",
@@ -121,6 +65,12 @@
         "喜剧片"
         ]
     },
+    {"key":"采集_天天","name":"☁️┃天天┃熊猫合家欢","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
+{"key":"集集_飞飞","name":"☁️┃飞飞┃熊猫合家欢","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
+{"key":"采集_影图","name":"☁️┃影图┃熊猫合家欢","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
+{"key":"采集_空空","name":"☁️┃空空┃熊猫合家欢","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"采集_卧龙","name":"☁️┃卧龙┃熊猫合家欢","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","香港剧","恐怖片","动作片"]},
+
     {"key": "横版影院","name": "短剧影院|熊猫合家欢","type": 1,"api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","jar": "./jar/guodaxia.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧"]},
     {"key":"飞速","name":"飞度影院|有广告","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8","changeable":1,"timeout":20,"searchable": 1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
