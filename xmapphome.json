@@ -8,6 +8,27 @@
     "sites":[
     {"key":"aa","name":"2024-04-21|新增量子影院"},
     {"key":"Aid","name":"🚑家庭急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+    {"key":"bt天堂","name":"🧲BT天堂","type":3,"playerType":1,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":"./json/BT天堂.json"},
+    {     
+      "key":"高清网",
+      "name":"📹高清网 | 4K磁力",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://gaoqing.la/?s={wd}",
+        "简介":"<span style=\"color: #000000;\">◎简*介&&<p><span style=\"color: #ff0000;\">磁力链接：</span></p>",
+        "演员":"<span style=\"color: #000000;\">◎主*演&&</span></p>",
+        "图片是否需要代理": "1",
+        "线路数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
+        "线路标题":"磁力链接",
+        "播放数组":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
+        "播放列表":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>[不包含:&dn&&包含:magnet]",
+        "播放链接":"<p><span style=\"color: #ff0000;\">磁力链接：</span></p>&&<p><span style=\"color: #ff0000;\">迅雷云盘：</span></p>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}"
+      }
+    },
 
     {"key":"豆瓣","name":"豆瓣排行榜|熊猫合家欢","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
