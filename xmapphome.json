@@ -41,6 +41,22 @@
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4" 
         }
   },
+  {"key":"MP4us","name":"🔴MP4us|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
+            "ext": {
+        "标题":"《&&》",
+                "数组":"<li>&&</li>",
+                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
+                "线路标题":"<h2>&&</h2>[替换:下载地址>>磁力]",
+                "播放数组":"download_url&&</ul>",
+                "播放列表":"<a&&</a>[不包含:ed2k]",
+                "线路数组":"download_url&&</ul>",
+                "分类二次截取":"<ul&&</ul>",
+                "分类数组":"<li&&</li>",
+                "分类标题":">&&</a",
+                "分类ID":"/list/&&-1.html",
+        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
+             }
+        },
   {"key":"采集_极速","name":"☁️┃极速┃云播","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
   {"key":"采集_天天","name":"☁️┃天天┃云播","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"集集_飞飞","name":"☁️┃飞飞┃云播","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},

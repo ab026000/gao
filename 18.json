@@ -8,6 +8,65 @@
     {"key":"aa","name":"2024-04-21|新增量子影院"},
     {"key":"🔞18AV","name":"🔞18AV","type":3,"api": "csp_Eighteen","searchable":1,"jar": "./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698"},
     {"key": "🔞18AVdz","name": "🔞18AVdz","type": 3,"api": "csp_Eighteen","searchable": 1,"jar": "./jar/道长.jar"},
-
+    {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
+    "ext": {
+"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}",
+"数组":"<tr&&</tr>",
+"简介":"Date:</div>&&</",
+"图片":" ",
+"播放二次截取":"panel-footer clearfix&&</div>",
+"播放数组":"<a&&</a>[不包含:Torrent#filecove]",
+        "分类": "DHT网络$1",
+"分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
+    }
+},
+{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+            "ext": {
+        "数组":"<li&&</li>",
+        "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
+        "副标题":"添加时间:&&</span>",
+        "主页url":"https://www.txcyeat.buzz/index.php/label/sort.html",
+        "分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]",
+        "分类数组":"<li&&</li>",
+        "分类标题":"classfont\">&&</p>",
+        "分类ID":"index.php/vodtype/&&.html",
+        "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
+            }
+        },
+        {"key":"csp_JavBus",
+        "name":"🔞🧲JavBus(自备梯子)",
+        "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+        "type":3,"style":{"type":"rect","ratio":1.485},
+        "api":"csp_JavBus",
+        "searchable":1,
+        "quickSearch": 1,
+        "changeable":0,
+        "filterable": 1,
+        "ext":"127.0.0.1:2001"
+        },
+     
+        {
+            "key": "csp_JavDb",
+            "name": "🔞🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 1801,
+            "ext": "http://javdb523.com"
+        },
+        {
+            "key": "Cable",
+            "name": "🔞CableAV(vpn)",
+            "type": 3,
+            "api": "csp_Cable",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60
+        }
 ]    
 }
