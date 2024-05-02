@@ -1,0 +1,13 @@
+{
+"spider":"./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698",
+"lives":[
+{"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🔞全球直播","url":"http://oy.oyxx-1.eu.org/p3p18.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"}
+],
+"sites":[
+    {"key":"aa","name":"2024-04-21|新增量子影院"},
+    {"key":"🔞18AV","name":"🔞18AV","type":3,"api": "csp_Eighteen","searchable":1,"jar": "./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698"},
+    {"key": "🔞18AVdz","name": "🔞18AVdz","type": 3,"api": "csp_Eighteen","searchable": 1,"jar": "./jar/道长.jar"},
+
+]    
+}
