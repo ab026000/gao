@@ -1,13 +1,12 @@
 {
     "spider":"./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698",
     "lives":[{"name":"综合直播","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
     {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
     ],
     "wallpaper":"熊猫电视伴侣",
     "sites":[
-    {"key":"aa","name":"2024-05-02|新增量子影院"},
+    {"key":"aa","name":"2024-05-02|新增☁️频道4个"},
     {"key":"Aid","name":"🚑家庭急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
     {"key":"豆瓣","name":"豆瓣排行榜|熊猫合家欢","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
