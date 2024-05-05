@@ -117,7 +117,6 @@
 	{"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0},
 
 	
-	//{"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
 	{"key":"YingSo","name":"影搜|搜索引擎无界面","type":3,"api":"csp_YingSo","timeout":20, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$1"},
 	{"key":"引擎友圈","name":"引擎友圈|搜索引擎无界面","type":3,"api":"csp_Panyq","timeout":20, "ext":"http://127.0.0.1:9978/file/TV/token.json"},
 	{"key":"88Pan","name":"88网引擎|搜索引擎无界面","type":3,"api":"csp_EightEight","timeout":20, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://662688.xyz"},
