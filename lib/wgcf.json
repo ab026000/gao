@@ -75,15 +75,15 @@
 			}
 		},
 		{
-			"protocol": "vless",
+			"protocol": "vmess",
 			"settings": {
 				"vnext": [
 					{
-						"address": "cdn-all.xn--b6gac.eu.org",
-						"port": 443,
+						"address": "acsg3.cloudflarest.link",
+						"port": 2083,
 						"users": [
 							{
-								"id": "VLESSID",
+								"id": "7944da90-3302-40cd-9c13-884978639981",
 								"encryption": "none",
 								"level":0
 							}
@@ -95,32 +95,32 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "VLESSCFWORKERNAME",
+					"serverName": "oriental-interracial-aspect-cream.trycloudflare.com",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "VLESSCFWORKERNAME"
+						"Host": "oriental-interracial-aspect-cream.trycloudflare.com"
 					},
-					"path": "/?ed=2048"
+					"path": "/kjhawmcn1279741-vm?ed=2048"
 				}
 			},
-			"tag":"vlesscf",
+			"tag":"vmesscf",
 			"proxySettings": {
 				"tag": "directfragment",
 				"transportLayer": true
 			}
 		},
 		{
-			"protocol": "vless",
+			"protocol": "vmess",
 			"settings": {
 				"vnext": [
 					{
-						"address": "cdn-all.xn--b6gac.eu.org",
-						"port": 443,
+						"address": "acjp2.cloudflarest.link",
+						"port": 2053,
 						"users": [
 							{
-								"id": "VLESSID",
+								"id": "7944da90-3302-40cd-9c13-884978639981",
 								"encryption": "none",
 								"level":0
 							}
@@ -132,14 +132,14 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "VLESSCFWORKERNAME",
+					"serverName": "oriental-interracial-aspect-cream.trycloudflare.com",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "VLESSCFWORKERNAME"
+						"Host": "oriental-interracial-aspect-cream.trycloudflare.com"
 					},
-					"path": "/?ed=2048"
+					"path": "/kjhawmcn1279741-vm?ed=2048"
 				}
 			},
 			"tag":"vlesscfoverwarp",

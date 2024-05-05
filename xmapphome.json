@@ -6,7 +6,7 @@
     ],
     "wallpaper":"熊猫电视伴侣",
     "sites":[
-    {"key":"aa","name":"2024-05-02|新增☁️频道4个"},
+    {"key":"aa","name":"2024-05-05|新增磁力频道"},
     {"key":"Aid","name":"🚑家庭急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
     {"key":"豆瓣","name":"豆瓣排行榜|熊猫合家欢","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
