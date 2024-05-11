@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698",
+"spider":"./pg.jar;md5;81b9c4c87838a7315930f3693a74eee9",
 "lives":[
 {"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
 {"name":"🔞全球直播","url":"http://oy.oyxx-1.eu.org/p3p18.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"}
@@ -57,6 +57,43 @@
             "timeout": 1801,
             "ext": "http://javdb523.com"
         },
+        {
+            "key": "langqun",
+            "name": "🔞|狼群|挂梯",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 0,
+            "api": "csp_XBPQ",
+            "jar": "./18/XBPQ.jar",
+            "ext": {
+                "站名": "2028P",
+                "主页url": "http://www.2028p.com",
+                "直接播放": "1",
+                "页面代理": "proxy",
+                "搜索url": "http://2028p.com/vodsearch/-------------/?wd={wd}",
+                "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍$10",
+                "分类url": "http://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"
+            }
+        },
+        {
+            "key": "姐姐",
+            "name": "🔞|玩偶|挂梯",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./18/XBPQ.jar",
+            "ext": {
+                "图片": "data-src=\"&&\"",
+                "直接播放": "1",
+                "分类url": "https://hongkongdollvideo.com/{cateId}/{catePg}.html",
+                "分类": "麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$Hongkong Doll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog",
+                "页面代理": "proxy"
+            }
+        },
+        {"key":"u9a9","name":"🔞u9a9PQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
+
         {
             "key": "Cable",
             "name": "🔞CableAV(vpn)",
