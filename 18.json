@@ -6,9 +6,7 @@
 ],
 "sites":[
     {"key":"aa","name":"2024-04-21|新增量子影院"},
-    {"key":"🔞18AV","name":"🔞18AV","type":3,"api": "csp_Eighteen","searchable":1,"jar": "./pg.jar;md5;2a0eb78d28ce4f624e0631de0f03c698"},
-    {"key": "🔞18AVdz","name": "🔞18AVdz","type": 3,"api": "csp_Eighteen","searchable": 1,"jar": "./jar/道长.jar"},
-    {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
+       {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
     "ext": {
 "搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}",
 "数组":"<tr&&</tr>",
@@ -33,66 +31,7 @@
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
             }
         },
-        {"key":"csp_JavBus",
-        "name":"🔞🧲JavBus(自备梯子)",
-        "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-        "type":3,"style":{"type":"rect","ratio":1.485},
-        "api":"csp_JavBus",
-        "searchable":1,
-        "quickSearch": 1,
-        "changeable":0,
-        "filterable": 1,
-        "ext":"127.0.0.1:2001"
-        },
-     
-        {
-            "key": "csp_JavDb",
-            "name": "🔞🧲JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 1801,
-            "ext": "http://javdb523.com"
-        },
-        {
-            "key": "langqun",
-            "name": "🔞|狼群|挂梯",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 0,
-            "api": "csp_XBPQ",
-            "jar": "./18/XBPQ.jar",
-            "ext": {
-                "站名": "2028P",
-                "主页url": "http://www.2028p.com",
-                "直接播放": "1",
-                "页面代理": "proxy",
-                "搜索url": "http://2028p.com/vodsearch/-------------/?wd={wd}",
-                "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍$10",
-                "分类url": "http://2028p.com/vodshow/{cateId}--{by}------{catePg}---/"
-            }
-        },
-        {
-            "key": "姐姐",
-            "name": "🔞|玩偶|挂梯",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./18/XBPQ.jar",
-            "ext": {
-                "图片": "data-src=\"&&\"",
-                "直接播放": "1",
-                "分类url": "https://hongkongdollvideo.com/{cateId}/{catePg}.html",
-                "分类": "麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$Hongkong Doll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog",
-                "页面代理": "proxy"
-            }
-        },
-        {"key":"u9a9","name":"🔞u9a9PQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
+           {"key":"u9a9","name":"🔞u9a9PQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
 
         {
             "key": "Cable",
