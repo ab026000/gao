@@ -18,6 +18,34 @@
 "分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
     }
 },
+{
+    "key": "csp_JavDb",
+    "name": "🧲┃JavDb┃磁力",
+    "type": 3,
+    "api": "csp_JavDb",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": "./lib/tokenm.json$$$https://javdb365.com/"
+},
+{
+    "key": "JavBus",
+    "name": "🔞JavBus",
+    "type": 3,
+    "api": "csp_JavBus",
+    "filterable": 1,
+    "changeable": 0,
+    "style": {
+        "ratio": 1.7
+    },
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$https://www.cdnbus.shop"
+},
     {"key":"JavBus","name":"🔞JavBus","type":3,"style":{"ratio":1.7},"api":"csp_JavBus","style":{"ratio":1.7},"timeout":60,"ext":"./lib/tokenm.json$$$https://www.cdnbus.shop"},
 {"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
