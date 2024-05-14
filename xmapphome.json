@@ -6,7 +6,7 @@
     ],
     "wallpaper":"熊猫电视伴侣",
     "sites":[
-    {"key":"aa","name":"2024-05-05|新增磁力频道"},
+    {"key":"aa","name":"熊猫电视伴侣更新“https://appxm.cn/xm/”"},
     {"key":"Aid","name":"🚑家庭急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
     {"key":"豆瓣","name":"豆瓣排行榜|熊猫合家欢","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
@@ -257,17 +257,6 @@
             "播放数组": "迅雷下载</div>&&</div>",
             "播放列表": "<a&&</a >"
         }
-    },
-    {
-        "key": "BT天堂",
-        "name":"🌈BT天堂|磁力",
-        "type":3,
-        "api":"csp_XBPQ",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext": "./lib/bttt.json",
-        "jar": "./lib/XBPQ.jar"
     },
     {"key":"布谷tv",
         "name":"🐦布谷|4K磁力",
