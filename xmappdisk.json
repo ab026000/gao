@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar;md5;81b9c4c87838a7315930f3693a74eee9",
+	"spider":"./pg.jar;md5;ee27a0b3a0e0a6754bbe2d85cc959a28",
 	"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 	],
 	"wallpaper":"熊猫电视伴侣",
