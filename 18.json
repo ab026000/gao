@@ -19,21 +19,6 @@
     }
 },
 {
-    "key": "csp_JavDb",
-    "name": "🧲┃JavDb┃磁力",
-    "type": 3,
-    "api": "csp_JavDb",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0,
-    "style": {
-        "type": "rect",
-        "ratio": 1.5
-    },
-    "ext": "http://127.0.0.1:9978/lib/tokenm.json$$$https://javdb365.com/"
-},
-{
     "key": "JavBus",
     "name": "🔞JavBus",
     "type": 3,
@@ -60,10 +45,8 @@
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
             }
         },
-        {"key":"Yinfansi","name":"💾┃音范丝┃网盘","type":3,"api":"csp_Yinfansi","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
            {"key":"u9a9","name":"🔞u9a9PQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
 
-           {"key":"Taohuazu","name":"🔞桃花族 🚀","type":3,"api":"csp_Taohuazu","searchable":0,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"ext": "http://127.0.0.1:9978/lib/tokenm.json$$$http://thzf.cc$$$proxy"},        
            {
             "key": "Cable",
             "name": "🔞CableAV(vpn)",
