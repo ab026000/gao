@@ -1,11 +1,23 @@
 {
 "spider":"./pg.jar;md5;81b9c4c87838a7315930f3693a74eee9",
 "lives":[
-{"name":"🔴全球直播","url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🔞全球直播","url":"http://oy.oyxx-1.eu.org/p3p18.php","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"}
+    {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+    {"name":"YanG","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Adult.m3u"},
+    {"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
+    {"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
+    {"name":"AV","type":0,"url":"./livex.m3u"},
+    {"name":"直播","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"}
+    ],
 ],
 "sites":[
     {"key":"aa","name":"2024-04-21|新增量子影院"},
+    {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
+    {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+    {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
+    {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
+    {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
+    {"key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./XBPQ/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
+
        {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
     "ext": {
 "搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}",
