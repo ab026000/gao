@@ -64,6 +64,8 @@
         "喜剧片"
         ]
     },
+    {"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
+
     {"key":"采集_天天","name":"☁️┃天天┃熊猫合家欢","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"集集_飞飞","name":"☁️┃飞飞┃熊猫合家欢","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"采集_影图","name":"☁️┃影图┃熊猫合家欢","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
