@@ -31,7 +31,7 @@
         "type": "rect",
         "ratio": 1.5
     },
-    "ext": "./lib/tokenm.json$$$https://javdb365.com/"
+    "ext": "http://127.0.0.1:9978/lib/tokenm.json$$$https://javdb365.com/"
 },
 {
     "key": "JavBus",
@@ -44,9 +44,9 @@
         "ratio": 1.7
     },
     "timeout": 60,
-    "ext": "./lib/tokenm.json$$$https://www.cdnbus.shop"
+    "ext": "http://127.0.0.1:9978/lib/tokenm.json$$$https://www.cdnbus.shop"
 },
-    {"key":"JavBus","name":"🔞JavBus","type":3,"style":{"ratio":1.7},"api":"csp_JavBus","style":{"ratio":1.7},"timeout":60,"ext":"./lib/tokenm.json$$$https://www.cdnbus.shop"},
+    {"key":"JavBus","name":"🔞JavBus","type":3,"style":{"ratio":1.7},"api":"csp_JavBus","style":{"ratio":1.7},"timeout":60,"ext":"http://127.0.0.1:9978/lib/tokenm.json$$$https://www.cdnbus.shop"},
 {"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "数组":"<li&&</li>",
@@ -62,8 +62,7 @@
         },
            {"key":"u9a9","name":"🔞u9a9PQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},"ext": {"搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}","数组":"<tr&&</tr>","简介":"Date:</div>&&</","图片":" ","播放二次截取":"panel-footer clearfix&&</div>","播放数组":"<a&&</a>[不包含:Torrent#filecove]","分类": "DHT网络$1","分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"}},
 
-           {"key":"Taohuazu","name":"🔞桃花族|不用挂梯","type":3,"style":{"ratio":1.7},"api":"csp_Taohuazu","ext":"./lib/tokenm.json$$$http://thzf.cc"},
-        
+           {"key":"Taohuazu","name":"🔞桃花族 🚀","type":3,"api":"csp_Taohuazu","searchable":0,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"ext": "http://127.0.0.1:9978/lib/tokenm.json$$$http://thzf.cc$$$proxy"},        
            {
             "key": "Cable",
             "name": "🔞CableAV(vpn)",
